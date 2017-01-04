@@ -285,7 +285,7 @@
       <option name="presentableId" value="Default" />
       <updated>1483122160308</updated>
       <workItem from="1483122161726" duration="834000" />
-      <workItem from="1483492070473" duration="936000" />
+      <workItem from="1483492070473" duration="965000" />
     </task>
     <task id="LOCAL-00001" summary="{{}} é um Angular Expression">
       <created>1483493996481</created>
@@ -298,7 +298,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1770000" />
+    <option name="totallyTimeSpent" value="1799000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1400" height="873" extended-state="0" />
@@ -342,6 +342,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="{{}} é um Angular Expression" />
     <option name="LAST_COMMIT_MESSAGE" value="{{}} é um Angular Expression" />
   </component>
